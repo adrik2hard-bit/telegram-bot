@@ -7,7 +7,7 @@ from telegram.ext import (
 )
 
 # --- Your bot token ---
-BOT_TOKEN = "8318927070:AAEeyv64cQ6ZxbiQUI-RqJSZP3gmBU00UuI"
+BOT_TOKEN = "YOUR BOT TOKEN"
 
 # /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -52,3 +52,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
